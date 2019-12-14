@@ -1,0 +1,36 @@
+< 아이디어 >
+
+1. 클라이언트 : 책 추가 / 찾기 요청
+- 아이디 비밀번호 같이,
+- 아이디 새로 만들기 가능
+
+2. 서버 : 책 추가 / 요청 실행 / ID와 PW 추가 & 탐색
+책 이름 뿐만 아니라 저자에 대해서도 쫙 리스트 출력
+
+3. MySQL - id, 비밀번호, 출판사
+   클라이언트에서 로그인할 때 ID, 비밀번호 체크
+
+4. Makefile
+
+기타)
+**interface
+찾기> find:(name or writer or publisher):xxx
+생성> add:name:writer:publisher
+삭제> delete:(name or wirter or publisher):xxx
+
+
+gitlab - etcher..
+- 관계도
+- markdown
+
+**스케줄
+
+9:00 - 9:20	아이디어 회의 / 역할 분담
+9:20 - 12:45	각자 개발(apache 제외)
+14:00 - 14:30	개발 점검
+14:30 - 16:00	개발 보완
+16:00 - 16:30	merge
+16:30 - 16:50	etcher 제작
+
+**
+raspberry ssh : 70.12.230.193
