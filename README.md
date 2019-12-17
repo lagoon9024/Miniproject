@@ -2,7 +2,7 @@
 
 ## library server
 - device : rpi for server
-- SQL : MySQL
+- DB : MariaDB
 - OS : Ubuntu
 
 ## Function
