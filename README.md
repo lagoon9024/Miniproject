@@ -7,5 +7,4 @@
 
 ## Function
 - CRUD
-- Can cammand on linux shell
 - multiuser access
